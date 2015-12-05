@@ -1,8 +1,10 @@
 #!/bin/sh
-echo "Hello solar stuff, what'cha doin'?"
+echo "A: Hello solar stuff, what'cha doin'?"
 echo
-echo "Doin' just fine sir!"
+echo "B: Doin' just fine sir!"
 echo
-echo "What have you produced?"
+echo "A: What have you produced?"
 echo
-echo "I produced jack shit!"
+echo "B: I produced jack shit!"
+echo
+echo "A: Sigh.."
